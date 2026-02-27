@@ -1,1 +1,1 @@
-Carpeta para tareas de Computación Móvil
+Carpeta para la entrega de tareas de Cómputo Móvil
